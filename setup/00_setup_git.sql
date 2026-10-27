@@ -48,7 +48,7 @@ CREATE API INTEGRATION IF NOT EXISTS GIT_ESPM_INT
 -- 4. COPIA DO REPOSITORIO: vira uma "pasta" dentro do Snowflake
 CREATE GIT REPOSITORY IF NOT EXISTS ESPM_HOL.PUBLIC.HOL_REPO
   API_INTEGRATION = GIT_ESPM_INT
-  ORIGIN = 'https://github.com/sfc-gh-dpiroto/coco-hol-espm-martech.git'
+  ORIGIN = 'https://github.com/sfc-gh-dpiroto/ESPM_Evento2026.git'
   COMMENT = 'ESPM_HOL';
 
 -- Busca a versao mais recente do GitHub (rode de novo se o professor avisar)

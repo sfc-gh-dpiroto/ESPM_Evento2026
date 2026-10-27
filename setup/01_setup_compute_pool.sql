@@ -29,7 +29,7 @@ SHOW COMPUTE POOLS LIKE 'ESPM_NOTEBOOK_POOL';
 
 /* PROXIMO PASSO (no Snowsight):
    1. Projects > Workspaces > menu do workspace > "From Git repository"
-      URL: https://github.com/sfc-gh-dpiroto/coco-hol-espm-martech
+      URL: https://github.com/sfc-gh-dpiroto/ESPM_Evento2026
       API integration: GIT_ESPM_INT   |  Autenticacao: Public repository
    2. Abra notebooks/01_bronze_ingestao.ipynb
    3. Clique em "Connect" > Create new service:
