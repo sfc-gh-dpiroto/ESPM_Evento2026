@@ -1,0 +1,11 @@
+name: loja_paulista
+version: "1.0.0"
+config-version: 2
+profile: loja_paulista
+
+model-paths: ["models"]
+target-path: "target"
+
+models:
+  loja_paulista:
+    +materialized: table

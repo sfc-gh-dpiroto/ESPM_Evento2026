@@ -1,0 +1,41 @@
+review_id,cliente_id,produto_id,nota,data_review,comentario
+R001,CLI0009,P002,5,05/02/2026,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R002,CLI0120,P025,2,2026-02-06 13:27:00,A cor veio diferente da foto e o processo de troca pelo app e confuso.
+R003,CLI0270,P020,1,2026-07-11,A cor veio diferente da foto e o processo de troca pelo app e confuso.
+R004,CLI0006,P001,5,19/09/2026,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R005,CLI0282,P032,5,2026-05-25 16:49:00,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R006,CLI0127,P036,5,2026-02-18,"Atendimento na loja da Paulista foi otimo, a vendedora ajudou a escolher o tamanho certo."
+R007,CLI0128,P006,2,14/05/2026,"Recebi notificacao de push dizendo que o produto estava em promocao, mas no checkout o preco era outro."
+R008,CLI0143,P024,5,2026-04-15 19:52:00,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R009,CLI0141,P010,4,2026-05-06,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R010,CLI0204,P062,4,19/09/2026,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R011,CLI0085,P063,4,2026-01-09 10:36:00,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R012,CLI0243,P051,4,2026-02-04,"Tecido muito bom, caimento perfeito. Ja estou de olho na proxima colecao."
+R013,CLI0156,P027,5,01/07/2026,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R014,CLI0005,P062,2,2026-01-03 19:19:00,"Recebi notificacao de push dizendo que o produto estava em promocao, mas no checkout o preco era outro."
+R015,CLI0055,P076,4,2026-01-28,"Tecido muito bom, caimento perfeito. Ja estou de olho na proxima colecao."
+R016,CLI0070,P036,5,05/02/2026,"Atendimento na loja da Paulista foi otimo, a vendedora ajudou a escolher o tamanho certo."
+R017,CLI0220,P039,4,2026-02-26 12:00:00,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R018,CLI0176,P060,1,2026-06-05,O pedido atrasou uma semana e ninguem respondeu no WhatsApp. Fiquei bem frustrada.
+R019,CLI0278,P001,3,28/08/2026,"Bom produto, mas achei o preco um pouco alto comparado a concorrencia."
+R020,CLI0214,P066,4,2026-07-20 20:44:00,"Atendimento na loja da Paulista foi otimo, a vendedora ajudou a escolher o tamanho certo."
+R021,CLI0085,P037,5,2026-02-11,"Atendimento na loja da Paulista foi otimo, a vendedora ajudou a escolher o tamanho certo."
+R022,CLI0213,P039,3,09/04/2026,"Comprei na loja fisica, atendimento normal. O provador estava cheio."
+R023,CLI0183,P079,3,2026-01-10 20:42:00,"Bom produto, mas achei o preco um pouco alto comparado a concorrencia."
+R024,CLI0173,P062,3,2026-05-10,"Bom produto, mas achei o preco um pouco alto comparado a concorrencia."
+R025,CLI0115,P036,4,20/03/2026,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R026,CLI0255,P065,1,2026-03-31 13:05:00,A cor veio diferente da foto e o processo de troca pelo app e confuso.
+R027,CLI0074,P060,2,2026-05-08,O pedido atrasou uma semana e ninguem respondeu no WhatsApp. Fiquei bem frustrada.
+R028,CLI0031,P051,5,28/07/2026,Produto igual a foto do site. Recomendo para quem quer custo-beneficio.
+R029,CLI0246,P065,3,2026-01-28 08:07:00,"Produto ok, nada de especial. O prazo de entrega foi o informado."
+R030,CLI0148,P038,3,2026-09-21,"Bom produto, mas achei o preco um pouco alto comparado a concorrencia."
+R031,CLI0281,P012,3,23/04/2026,"Produto ok, nada de especial. O prazo de entrega foi o informado."
+R032,CLI0246,P033,4,2026-09-05 08:21:00,Chegou antes do prazo e a qualidade e excelente. Comprei pelo app e retirei na loja sem fila.
+R033,CLI0067,P008,4,2026-09-08,Produto igual a foto do site. Recomendo para quem quer custo-beneficio.
+R034,CLI0075,P020,4,12/03/2026,"Atendimento na loja da Paulista foi otimo, a vendedora ajudou a escolher o tamanho certo."
+R035,CLI0018,P023,1,2026-02-03 16:41:00,Cobraram frete mesmo com o cupom FRETEGRATIS. Precisei abrir reclamacao.
+R036,CLI0267,P038,3,2026-07-29,"Bom produto, mas achei o preco um pouco alto comparado a concorrencia."
+R037,CLI0130,P046,5,23/02/2026,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R038,CLI0169,P068,4,2026-05-05 22:31:00,"Entrega rapida, embalagem bonita e o cupom de boas-vindas funcionou na hora."
+R039,CLI0205,P009,3,2026-05-29,"Produto ok, nada de especial. O prazo de entrega foi o informado."
+R040,CLI0077,P027,5,20/06/2026,"Tecido muito bom, caimento perfeito. Ja estou de olho na proxima colecao."

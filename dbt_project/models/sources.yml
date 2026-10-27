@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: silver
+    database: ESPM_HOL
+    schema: SILVER
+    tables:
+      - name: pedidos
+      - name: itens_pedido
+      - name: produtos
+      - name: clientes

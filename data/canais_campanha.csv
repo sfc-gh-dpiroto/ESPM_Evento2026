@@ -1,0 +1,11 @@
+canal_id,nome_canal,tipo_canal,custo_mensal
+C01,Instagram Ads,PAGO,18000.00
+C02,Google Ads,PAGO,22000.00
+C03,TikTok Ads,PAGO,9000.00
+C04,Email Marketing,PROPRIO,1500.00
+C05,Push no App,PROPRIO,800.00
+C06,WhatsApp,PROPRIO,2500.00
+C07,Influenciadores,PAGO,15000.00
+C08,SMS,PROPRIO,1200.00
+C09,Organico Instagram,ORGANICO,0.00
+C10,SEO Blog,ORGANICO,3000.00

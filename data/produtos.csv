@@ -1,0 +1,81 @@
+produto_id,nome_produto,categoria,preco_lista
+P001,Vestido Azul,Moda Feminina,179.60
+P002,Moletom Vinho,Moda Masculina,229.60
+P003,Tenis Branco,Calcados,459.03
+P004,Luminaria Bege,Casa,169.39
+P005,Relogio Bege,Acessorios,509.17
+P006,Calca Jeans Cinza,Moda Feminina,244.54
+P007,Polo Branco,Moda Masculina,49.53
+P008,Tenis Preto,Calcados,228.15
+P009,Jogo de Cama Verde,Casa,42.56
+P010,Bone Verde,Acessorios,416.25
+P011,Blusa Verde,Moda Feminina,119.36
+P012,Calca Chino Cinza,Moda Masculina,128.03
+P013,Tenis Vinho,Calcados,248.35
+P014,Luminaria Bege,Casa,129.56
+P015,Oculos Branco,Acessorios,528.59
+P016,Jaqueta Azul,Moda Feminina,64.94
+P017,Calca Chino Azul,Moda Masculina,145.83
+P018,Tenis Verde,Calcados,457.57
+P019,Luminaria Verde,Casa,307.84
+P020,Oculos Bege,Acessorios,486.45
+P021,Jaqueta Verde,Moda Feminina,154.56
+P022,Moletom Azul,Moda Masculina,226.34
+P023,Sapatenis Bege,Calcados,315.84
+P024,Jogo de Cama Bege,Casa,108.60
+P025,Mochila Cinza,Acessorios,56.87
+P026,Jaqueta Vinho,Moda Feminina,83.62
+P027,Moletom Verde,Moda Masculina,147.71
+P028,Sapatenis Branco,Calcados,441.86
+P029,Jogo de Cama Vinho,Casa,256.22
+P030,Bone Verde,Acessorios,436.28
+P031,Jaqueta Azul,Moda Feminina,193.35
+P032,Calca Chino Bege,Moda Masculina,216.96
+P033,Sapatenis Cinza,Calcados,455.09
+P034,Manta Branco,Casa,130.26
+P035,Cinto Preto,Acessorios,47.87
+P036,Jaqueta Verde,Moda Feminina,251.85
+P037,Polo Azul,Moda Masculina,242.52
+P038,Bota Vinho,Calcados,303.52
+P039,Luminaria Cinza,Casa,295.11
+P040,Oculos Bege,Acessorios,407.42
+P041,Vestido Cinza,Moda Feminina,128.62
+P042,Polo Cinza,Moda Masculina,69.66
+P043,Bota Verde,Calcados,469.35
+P044,Toalha Verde,Casa,300.16
+P045,Oculos Preto,Acessorios,398.67
+P046,Calca Jeans Azul,Moda Feminina,82.20
+P047,Polo Branco,Moda Masculina,143.37
+P048,Tenis Preto,Calcados,119.08
+P049,Luminaria Bege,Casa,327.98
+P050,Bolsa Bege,Acessorios,481.45
+P051,Blusa Preto,Moda Feminina,208.06
+P052,Moletom Azul,Moda Masculina,189.38
+P053,Bota Branco,Calcados,120.95
+P054,Luminaria Bege,Casa,277.55
+P055,Oculos Vinho,Acessorios,439.67
+P056,Blusa Bege,Moda Feminina,112.50
+P057,Moletom Branco,Moda Masculina,250.24
+P058,Bota Preto,Calcados,277.76
+P059,Toalha Branco,Casa,281.87
+P060,Relogio Azul,Acessorios,318.39
+P061,Calca Jeans Cinza,Moda Feminina,94.65
+P062,Bermuda Verde,Moda Masculina,51.97
+P063,Tenis Verde,Calcados,456.35
+P064,Jogo de Cama Cinza,Casa,146.58
+P065,Cinto Cinza,Acessorios,567.69
+P066,Vestido Bege,Moda Feminina,173.25
+P067,Calca Chino Verde,Moda Masculina,117.47
+P068,Tenis Verde,Calcados,479.54
+P069,Luminaria Bege,Casa,288.53
+P070,Mochila Bege,Acessorios,325.18
+P071,Calca Jeans Bege,Moda Feminina,139.74
+P072,Moletom Branco,Moda Masculina,191.48
+P073,Tenis Bege,Calcados,270.68
+P074,Toalha Vinho,Casa,324.65
+P075,Bolsa Vinho,Acessorios,339.52
+P076,Vestido Verde,Moda Feminina,267.34
+P077,Bermuda Verde,Moda Masculina,198.30
+P078,Tenis Branco,Calcados,364.35
+P079,Toalha Cinza,Casa,312.63
+P080,Mochila Branco,Acessorios,405.90

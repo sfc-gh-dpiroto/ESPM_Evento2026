@@ -1,0 +1,301 @@
+cliente_id,nome,email,cidade,uf,data_cadastro,canal_aquisicao_id,atualizado_em
+CLI0124,Ana Silva,ana.silva124@email.com,Porto Alegre,RS,26/05/2023,C10,2026-07-01 12:04:00
+CLI0281,Lucas Rodrigues,lucas.rodrigues281@email.com,Sao Paulo,SP,2024-02-13 08:19:00,C09,2026-07-01 14:41:00
+CLI0079,Samuel Oliveira,samuel.oliveira79@email.com,Sao Paulo,SP,27/02/2023,C05,2026-07-01 11:19:00
+CLI0095,Gabriela Oliveira,gabriela.oliveira95@email.com,Belo Horizonte,MG,2026-02-03 19:09:00,C03,2026-07-01 11:35:00
+CLI0198,Ana Oliveira,ana.oliveira198@email.com,Belo Horizonte,MG,2026-05-26,C05,2026-07-01 13:18:00
+CLI0020,Olivia Costa,olivia.costa20@email.com,Curitiba,PR,2023-09-02 18:23:00,C09,2026-07-01 10:20:00
+CLI0118,Olivia Pereira,olivia.pereira118@email.com,Rio de Janeiro,RJ,12/12/2025,C09,2026-07-01 11:58:00
+CLI0230,Joao Silva,joao.silva230@email.com,Sao Paulo,SP,2024-01-31 15:24:00,C02,2026-07-01 13:50:00
+CLI0154,Diego Oliveira,  DIEGO.OLIVEIRA154@EMAIL.COM ,Sao Paulo,SP,16/02/2025,C02,2026-07-01 12:34:00
+CLI0002,Nicolas Santos,nicolas.santos2@email.com,Sao Paulo,SP,2024-09-16 10:22:00,C03,2026-04-02 10:02:00
+CLI0275,Felipe Costa,felipe.costa275@email.com,Sao Paulo,SP,2026-06-19 13:25:00,C09,2026-07-01 14:35:00
+CLI0073,Ana Silva,ana.silva73@email.com,Sao Paulo,SP,05/09/2023,C05,2026-07-01 11:13:00
+CLI0164,Joao Oliveira,joao.oliveira164@email.com,Campinas,SP,2023-01-11 15:37:00,C02,2026-07-01 12:44:00
+CLI0137,Ana Souza,ana.souza137@email.com,Sao Paulo,SP,2023-04-15 12:48:00,C03,2026-07-01 12:17:00
+CLI0171,Vitor Pereira,vitor.pereira171@email.com,Curitiba,PR,2026-01-03,C07,2026-07-01 12:51:00
+CLI0155,Pedro Costa,pedro.costa155@email.com,Curitiba,PR,2026-03-06 13:32:00,C06,2026-07-01 12:35:00
+CLI0030,Samuel Costa,samuel.costa30@email.com,Sao Paulo,SP,2023-10-30,C04,2026-07-01 10:30:00
+CLI0084,Lucas Lima,Lucas.lima84@email.com ,Santos,SP,2024-02-12,C06,2026-07-01 11:24:00
+CLI0074,Karina Silva,karina.silva74@email.com,Sao Paulo,SP,2025-07-25 16:17:00,C10,2026-07-01 11:14:00
+CLI0217,Bruno Santos,bruno.santos217@email.com,Sao Paulo,SP,28/12/2023,C01,2026-07-01 13:37:00
+CLI0106,Felipe Souza,felipe.souza106@email.com,Guarulhos,SP,09/10/2025,C04,2026-04-02 11:46:00
+CLI0245,Carla Souza,carla.souza245@email.com,Curitiba,PR,2024-02-19 22:34:00,C01,2026-07-01 14:05:00
+CLI0201,Isabela Pereira,isabela.pereira201@email.com,Campinas,SP,2026-06-13,C10,2026-07-01 13:21:00
+CLI0267,Isabela Rodrigues,isabela.rodrigues267@email.com,Sao Paulo,SP,2023-05-18,C07,2026-07-01 14:27:00
+CLI0057,Olivia Nascimento,olivia.nascimento57@email.com,Sao Paulo,SP,2023-06-19,C02,2026-07-01 10:57:00
+CLI0146,Pedro Silva,pedro.silva146@email.com,Rio de Janeiro,RJ,2024-12-21 11:34:00,C07,2026-07-01 12:26:00
+CLI0148,Nicolas Costa,nicolas.costa148@email.com,Rio de Janeiro,RJ,03/07/2023,C08,2026-07-01 12:28:00
+CLI0021,Isabela Costa,isabela.costa21@email.com,Sao Paulo,SP,2024-12-30,C01,2026-07-01 10:21:00
+CLI0206,Felipe Pereira,felipe.pereira206@email.com,Rio de Janeiro,RJ,2024-09-24 12:19:00,C02,2026-07-01 13:26:00
+CLI0152,Eduarda Nascimento,eduarda.nascimento152@email.com,Rio de Janeiro,RJ,2024-05-13 21:52:00,C08,2026-07-01 12:32:00
+CLI0123,Mariana Santos,mariana.santos123@email.com,Sao Paulo,SP,2025-12-31,C05,2026-07-01 12:03:00
+CLI0111,Felipe Souza,felipe.souza111@email.com,Curitiba,PR,2025-06-06,C04,2026-07-01 11:51:00
+CLI0142,Joao Santos,joao.santos142@email.com,Sao Paulo,SP,15/05/2023,C05,2026-07-01 12:22:00
+CLI0115,Eduarda Almeida,eduarda.almeida115@email.com,Sao Paulo,SP,05/01/2025,C08,2026-07-01 11:55:00
+CLI0266,Bruno Lima,  BRUNO.LIMA266@EMAIL.COM ,Porto Alegre,RS,2024-08-17 19:05:00,C01,2026-07-01 14:26:00
+CLI0191,Samuel Rodrigues,samuel.rodrigues191@email.com,Sao Paulo,SP,2026-05-02 10:07:00,C02,2026-07-01 13:11:00
+CLI0019,Mariana Pereira,mariana.pereira19@email.com,Belo Horizonte,MG,17/03/2024,C10,2026-07-01 10:19:00
+CLI0067,Mariana Silva,mariana.silva67@email.com,Rio de Janeiro,RJ,05/11/2024,C07,2026-07-01 11:07:00
+CLI0225,Felipe Nascimento,felipe.nascimento225@email.com,Campinas,SP,2023-04-10,C02,2026-07-01 13:45:00
+CLI0257,Ana Santos,ana.santos257@email.com,Sao Paulo,SP,2025-12-16 15:22:00,C03,2026-07-01 14:17:00
+CLI0113,Joao Pereira,joao.pereira113@email.com,Campinas,SP,2023-01-20 15:33:00,C08,2026-07-01 11:53:00
+CLI0210,Mariana Santos,  MARIANA.SANTOS210@EMAIL.COM ,Sao Paulo,SP,2025-05-31,C08,2026-07-01 13:30:00
+CLI0213,Ana Pereira,ana.pereira213@email.com,Campinas,SP,2025-08-12,C01,2026-07-01 13:33:00
+CLI0086,Gabriela Nascimento,gabriela.nascimento86@email.com,Sao Paulo,SP,2025-04-21 21:04:00,C09,2026-07-01 11:26:00
+CLI0018,Karina Rodrigues,karina.rodrigues18@email.com,Belo Horizonte,MG,2026-06-13,C01,2026-07-01 10:18:00
+CLI0064,Karina Lima,karina.lima64@email.com,Santos,SP,23/06/2024,C03,2026-07-01 11:04:00
+CLI0008,Lucas Oliveira,lucas.oliveira8@email.com,Sao Paulo,SP,2026-02-24 18:36:00,C09,2026-07-01 10:08:00
+CLI0179,Henrique Almeida,henrique.almeida179@email.com,Rio de Janeiro,RJ,2024-08-07 20:42:00,C10,2026-07-01 12:59:00
+CLI0227,Eduarda Silva,eduarda.silva227@email.com,Sao Paulo,SP,2023-07-13 20:08:00,C07,2026-07-01 13:47:00
+CLI0264,Carla Rodrigues,carla.rodrigues264@email.com,Sao Paulo,SP,2024-03-27,C04,2026-07-01 14:24:00
+CLI0194,Ana Rodrigues,ana.rodrigues194@email.com,Campinas,SP,2023-05-09 15:31:00,C01,2026-07-01 13:14:00
+CLI0239,Vitor Lima,vitor.lima239@email.com,Rio de Janeiro,RJ,2023-04-11 16:22:00,C04,2026-07-01 13:59:00
+CLI0218,Lucas Nascimento,lucas.nascimento218@email.com,Rio de Janeiro,RJ,2025-07-23 09:43:00,C10,2026-07-01 13:38:00
+CLI0130,Pedro Almeida,pedro.almeida130@email.com,Sao Paulo,SP,18/10/2025,C04,2026-07-01 12:10:00
+CLI0001,Felipe Costa,felipe.costa1@email.com,Sao Paulo,SP,21/05/2025,C09,2026-07-01 10:01:00
+CLI0227,Eduarda Silva,eduarda.silva227@email.com,Guarulhos,SP,2023-07-13 20:08:00,C07,2026-04-02 13:47:00
+CLI0222,Bruno Oliveira,bruno.oliveira222@email.com,Santos,SP,2026-02-24,C01,2026-07-01 13:42:00
+CLI0065,Samuel Lima,samuel.lima65@email.com,Sao Paulo,SP,2024-11-10 10:35:00,C02,2026-07-01 11:05:00
+CLI0002,Nicolas Santos,nicolas.santos2@email.com,Campinas,SP,2024-09-16 10:22:00,C03,2026-07-01 10:02:00
+CLI0156,Carla Nascimento,carla.nascimento156@email.com,Sao Paulo,SP,2024-05-31,C04,2026-07-01 12:36:00
+CLI0108,Lucas Souza,lucas.souza108@email.com,Sao Paulo,SP,2025-06-21,C09,2026-07-01 11:48:00
+CLI0247,Diego Lima,diego.lima247@email.com,Santos,SP,02/12/2025,C07,2026-07-01 14:07:00
+CLI0013,Felipe Santos,felipe.santos13@email.com,Rio de Janeiro,RJ,04/10/2024,C05,2026-07-01 10:13:00
+CLI0129,Diego Nascimento,diego.nascimento129@email.com,Santos,SP,2026-04-24,C07,2026-07-01 12:09:00
+CLI0122,Samuel Silva,samuel.silva122@email.com,Sao Paulo,SP,2024-10-14 10:01:00,C02,2026-07-01 12:02:00
+CLI0233,Gabriela Pereira,gabriela.pereira233@email.com,Sao Paulo,SP,2023-07-10 12:34:00,C09,2026-07-01 13:53:00
+CLI0078,Tatiana Costa,tatiana.costa78@email.com,Porto Alegre,RS,2025-12-04,C10,2026-07-01 11:18:00
+CLI0045,Rafaela Santos,rafaela.santos45@email.com,Guarulhos,SP,2023-10-18,C07,2026-04-02 10:45:00
+CLI0033,Felipe Almeida,felipe.almeida33@email.com,Sao Paulo,SP,2025-11-18,C05,2026-07-01 10:33:00
+CLI0241,Eduarda Lima,eduarda.lima241@email.com,Santos,SP,15/03/2025,C02,2026-07-01 14:01:00
+CLI0159,Ana Pereira,ana.pereira159@email.com,Porto Alegre,RS,2023-12-26,C08,2026-07-01 12:39:00
+CLI0051,Felipe Silva,felipe.silva51@email.com,Guarulhos,SP,2025-11-20,C01,2026-04-02 10:51:00
+CLI0125,Rafaela Santos,rafaela.santos125@email.com,Porto Alegre,RS,2024-11-16 19:09:00,C05,2026-07-01 12:05:00
+CLI0053,Samuel Oliveira,samuel.oliveira53@email.com,Belo Horizonte,MG,2026-06-03 11:08:00,C02,2026-07-01 10:53:00
+CLI0072,Vitor Costa,vitor.costa72@email.com,Santos,SP,2025-09-16,C06,2026-07-01 11:12:00
+CLI0106,Felipe Souza,felipe.souza106@email.com,Sao Paulo,SP,09/10/2025,C04,2026-07-01 11:46:00
+CLI0234,Diego Almeida,diego.almeida234@email.com,Sao Paulo,SP,2024-04-06,C08,2026-07-01 13:54:00
+CLI0200,Carla Costa,carla.costa200@email.com,Sao Paulo,PR,2023-06-19 17:49:00,C10,2026-04-02 13:20:00
+CLI0211,Tatiana Pereira,tatiana.pereira211@email.com,Belo Horizonte,MG,11/02/2025,C06,2026-07-01 13:31:00
+CLI0054,Karina Rodrigues,karina.rodrigues54@email.com,Sao Paulo,SP,2023-05-30,C07,2026-07-01 10:54:00
+CLI0090,Isabela Almeida,isabela.almeida90@email.com,Rio de Janeiro,RJ,2025-02-23,C02,2026-07-01 11:30:00
+CLI0144,Isabela Santos,isabela.santos144@email.com,Porto Alegre,RS,2026-01-24,C03,2026-07-01 12:24:00
+CLI0182,Mariana Nascimento,  MARIANA.NASCIMENTO182@EMAIL.COM ,Sao Paulo,SP,2024-05-14 16:37:00,C07,2026-07-01 13:02:00
+CLI0214,Vitor Silva,vitor.silva214@email.com,Porto Alegre,RS,25/08/2024,C09,2026-07-01 13:34:00
+CLI0114,Isabela Pereira,isabela.pereira114@email.com,Santos,SP,2023-10-10,C02,2026-07-01 11:54:00
+CLI0229,Vitor Oliveira,vitor.oliveira229@email.com,Sao Paulo,SP,20/10/2024,C03,2026-07-01 13:49:00
+CLI0004,Olivia Oliveira,olivia.oliveira4@email.com,Guarulhos,SP,29/11/2025,C08,2026-04-02 10:04:00
+CLI0276,Ana Almeida,ana.almeida276@email.com,Sao Paulo,SP,2023-05-23,C01,2026-07-01 14:36:00
+CLI0083,Isabela Silva,isabela.silva83@email.com,Curitiba,PR,2025-09-30 10:01:00,C08,2026-07-01 11:23:00
+CLI0221,Diego Santos,diego.santos221@email.com,Guarulhos,SP,2023-05-28 17:55:00,C07,2026-04-02 13:41:00
+CLI0061,Olivia Souza,olivia.souza61@email.com,Porto Alegre,RS,14/12/2024,C06,2026-07-01 11:01:00
+CLI0010,Tatiana Souza,tatiana.souza10@email.com,Belo Horizonte,MG,26/08/2024,C10,2026-07-01 10:10:00
+CLI0270,Rafaela Oliveira,rafaela.oliveira270@email.com,Sao Paulo,SP,2024-10-28,C10,2026-07-01 14:30:00
+CLI0093,Isabela Rodrigues,isabela.rodrigues93@email.com,Sao Paulo,SP,2026-02-18,C06,2026-07-01 11:33:00
+CLI0200,Carla Costa,carla.costa200@email.com,Curitiba,PR,2023-06-19 17:49:00,C10,2026-07-01 13:20:00
+CLI0056,Pedro Rodrigues,Pedro.rodrigues56@email.com ,Sao Paulo,SP,2026-02-11 16:15:00,C06,2026-07-01 10:56:00
+CLI0110,Diego Santos,diego.santos110@email.com,Sao Paulo,SP,2026-06-28 19:10:00,C02,2026-07-01 11:50:00
+CLI0091,Vitor Souza,vitor.souza91@email.com,Sao Paulo,SP,07/08/2025,C04,2026-07-01 11:31:00
+CLI0204,Isabela Almeida,isabela.almeida204@email.com,Santos,SP,2024-08-17,C07,2026-07-01 13:24:00
+CLI0196,Nicolas Oliveira,Nicolas.oliveira196@email.com ,Campinas,SP,21/05/2023,C05,2026-07-01 13:16:00
+CLI0132,Henrique Almeida,henrique.almeida132@email.com,Sao Paulo,SP,2024-07-01,C07,2026-07-01 12:12:00
+CLI0047,Tatiana Souza,tatiana.souza47@email.com,Sao Paulo,SP,2024-08-22 12:34:00,C05,2026-07-01 10:47:00
+CLI0096,Eduarda Nascimento,eduarda.nascimento96@email.com,Sao Paulo,SP,2023-03-12,C05,2026-07-01 11:36:00
+CLI0026,Bruno Oliveira,bruno.oliveira26@email.com,Rio de Janeiro,RJ,2024-12-26 17:41:00,C05,2026-07-01 10:26:00
+CLI0168,Karina Oliveira,Karina.oliveira168@email.com ,Sao Paulo,SP,2026-06-08,C09,2026-07-01 12:48:00
+CLI0005,Olivia Santos,olivia.santos5@email.com,Rio de Janeiro,RJ,2025-12-10 20:17:00,C02,2026-07-01 10:05:00
+CLI0228,Gabriela Lima,gabriela.lima228@email.com,Porto Alegre,RS,2025-08-04,C09,2026-07-01 13:48:00
+CLI0041,Nicolas Silva,nicolas.silva41@email.com,Curitiba,PR,2023-12-20 09:19:00,C06,2026-07-01 10:41:00
+CLI0145,Samuel Almeida,samuel.almeida145@email.com,Belo Horizonte,MG,11/01/2026,C04,2026-07-01 12:25:00
+CLI0100,Samuel Silva,samuel.silva100@email.com,Sao Paulo,SP,28/03/2024,C09,2026-07-01 11:40:00
+CLI0237,Pedro Pereira,pedro.pereira237@email.com,Sao Paulo,SP,2024-01-20,C03,2026-07-01 13:57:00
+CLI0268,Rafaela Almeida,rafaela.almeida268@email.com,Campinas,SP,05/10/2024,C07,2026-07-01 14:28:00
+CLI0127,Mariana Souza,mariana.souza127@email.com,Rio de Janeiro,RJ,02/10/2024,C07,2026-07-01 12:07:00
+CLI0029,Henrique Oliveira,henrique.oliveira29@email.com,Sao Paulo,SP,2026-01-16 08:42:00,C09,2026-07-01 10:29:00
+CLI0034,Karina Almeida,karina.almeida34@email.com,Porto Alegre,RS,12/10/2024,C01,2026-07-01 10:34:00
+CLI0158,Tatiana Nascimento,tatiana.nascimento158@email.com,Sao Paulo,SP,2024-09-20 19:34:00,C01,2026-07-01 12:38:00
+CLI0259,Felipe Lima,felipe.lima259@email.com,Campinas,SP,09/08/2024,C07,2026-07-01 14:19:00
+CLI0167,Isabela Rodrigues,isabela.rodrigues167@email.com,Porto Alegre,RS,2026-06-27 14:30:00,C05,2026-07-01 12:47:00
+CLI0165,Diego Souza,diego.souza165@email.com,Sao Paulo,SP,2025-06-27,C02,2026-07-01 12:45:00
+CLI0157,Diego Costa,diego.costa157@email.com,Guarulhos,SP,14/09/2024,C10,2026-04-02 12:37:00
+CLI0075,Lucas Santos,lucas.santos75@email.com,Rio de Janeiro,RJ,2024-01-20,C09,2026-07-01 11:15:00
+CLI0170,Henrique Pereira,henrique.pereira170@email.com,Sao Paulo,SP,2023-07-27 11:24:00,C03,2026-07-01 12:50:00
+CLI0253,Olivia Silva,olivia.silva253@email.com,Sao Paulo,PR,10/05/2026,C01,2026-04-02 14:13:00
+CLI0271,Karina Souza,karina.souza271@email.com,Sao Paulo,SP,11/06/2026,C05,2026-07-01 14:31:00
+CLI0265,Joao Nascimento,joao.nascimento265@email.com,Campinas,SP,13/08/2025,C08,2026-07-01 14:25:00
+CLI0160,Tatiana Santos,tatiana.santos160@email.com,Sao Paulo,SP,23/08/2025,C03,2026-07-01 12:40:00
+CLI0017,Joao Santos,joao.santos17@email.com,Sao Paulo,SP,2026-02-23 17:59:00,C06,2026-07-01 10:17:00
+CLI0043,Samuel Souza,samuel.souza43@email.com,Porto Alegre,RS,07/04/2026,C05,2026-07-01 10:43:00
+CLI0006,Gabriela Souza,gabriela.souza6@email.com,Sao Paulo,SP,2023-07-10,C08,2026-07-01 10:06:00
+CLI0285,Ana Souza,ana.souza285@email.com,Rio de Janeiro,RJ,2024-05-07,C01,2026-07-01 14:45:00
+CLI0223,Joao Costa,joao.costa223@email.com,Sao Paulo,SP,14/02/2026,C08,2026-07-01 13:43:00
+CLI0284,Mariana Souza,mariana.souza284@email.com,Sao Paulo,SP,2023-06-21 09:00:00,C03,2026-07-01 14:44:00
+CLI0103,Pedro Silva,pedro.silva103@email.com,Sao Paulo,SP,13/07/2023,C06,2026-07-01 11:43:00
+CLI0282,Rafaela Rodrigues,rafaela.rodrigues282@email.com,Santos,SP,2025-12-19,C02,2026-07-01 14:42:00
+CLI0049,Vitor Rodrigues,vitor.rodrigues49@email.com,Campinas,SP,29/12/2024,C09,2026-07-01 10:49:00
+CLI0255,Diego Lima,diego.lima255@email.com,Sao Paulo,SP,2024-05-12,C07,2026-07-01 14:15:00
+CLI0240,Isabela Rodrigues,isabela.rodrigues240@email.com,Curitiba,PR,2023-03-11,C05,2026-07-01 14:00:00
+CLI0028,Nicolas Costa,Nicolas.costa28@email.com ,Campinas,SP,05/05/2024,C07,2026-07-01 10:28:00
+CLI0187,Diego Rodrigues,diego.rodrigues187@email.com,Belo Horizonte,MG,11/12/2024,C09,2026-07-01 13:07:00
+CLI0244,Eduarda Silva,eduarda.silva244@email.com,Sao Paulo,SP,19/08/2024,C07,2026-07-01 14:04:00
+CLI0199,Isabela Costa,isabela.costa199@email.com,Sao Paulo,SP,08/04/2024,C06,2026-07-01 13:19:00
+CLI0131,Mariana Silva,mariana.silva131@email.com,Rio de Janeiro,RJ,2025-08-11 20:08:00,C05,2026-07-01 12:11:00
+CLI0009,Gabriela Santos,gabriela.santos9@email.com,Belo Horizonte,MG,2024-07-28,C09,2026-07-01 10:09:00
+CLI0212,Ana Pereira,ana.pereira212@email.com,Campinas,SP,2024-12-19 20:16:00,C08,2026-07-01 13:32:00
+CLI0183,Lucas Silva,lucas.silva183@email.com,Sao Paulo,SP,2024-04-28,C04,2026-07-01 13:03:00
+CLI0159,Ana Pereira,ana.pereira159@email.com,Sao Paulo,RS,2023-12-26,C08,2026-04-02 12:39:00
+CLI0135,Tatiana Santos,tatiana.santos135@email.com,Rio de Janeiro,RJ,2023-12-15,C08,2026-07-01 12:15:00
+CLI0121,Mariana Nascimento,mariana.nascimento121@email.com,Santos,SP,10/06/2026,C08,2026-07-01 12:01:00
+CLI0050,Felipe Almeida,felipe.almeida50@email.com,Sao Paulo,SP,2024-01-03 13:34:00,C03,2026-07-01 10:50:00
+CLI0112,Nicolas Silva,Nicolas.silva112@email.com ,Rio de Janeiro,RJ,24/10/2023,C05,2026-07-01 11:52:00
+CLI0177,Vitor Lima,vitor.lima177@email.com,Porto Alegre,RS,2023-03-16,C10,2026-07-01 12:57:00
+CLI0099,Felipe Oliveira,felipe.oliveira99@email.com,Campinas,SP,2026-06-29,C08,2026-07-01 11:39:00
+CLI0046,Karina Almeida,karina.almeida46@email.com,Sao Paulo,SP,27/09/2024,C01,2026-07-01 10:46:00
+CLI0088,Rafaela Almeida,rafaela.almeida88@email.com,Belo Horizonte,MG,27/10/2024,C08,2026-07-01 11:28:00
+CLI0037,Samuel Lima,samuel.lima37@email.com,Sao Paulo,SP,16/02/2024,C06,2026-07-01 10:37:00
+CLI0203,Felipe Almeida,felipe.almeida203@email.com,Campinas,SP,2024-06-02 08:35:00,C10,2026-07-01 13:23:00
+CLI0060,Pedro Costa,pedro.costa60@email.com,Sao Paulo,SP,2023-12-28,C04,2026-07-01 11:00:00
+CLI0027,Ana Costa,ana.costa27@email.com,Belo Horizonte,MG,2023-09-16,C06,2026-07-01 10:27:00
+CLI0014,Tatiana Santos,  TATIANA.SANTOS14@EMAIL.COM ,Sao Paulo,SP,2024-10-06 10:16:00,C05,2026-07-01 10:14:00
+CLI0138,Rafaela Lima,rafaela.lima138@email.com,Sao Paulo,SP,2023-06-23,C05,2026-07-01 12:18:00
+CLI0236,Gabriela Almeida,gabriela.almeida236@email.com,Sao Paulo,SP,2023-09-03 14:16:00,C10,2026-07-01 13:56:00
+CLI0172,Gabriela Nascimento,gabriela.nascimento172@email.com,Rio de Janeiro,RJ,12/09/2024,C09,2026-07-01 12:52:00
+CLI0253,Olivia Silva,olivia.silva253@email.com,Curitiba,PR,10/05/2026,C01,2026-07-01 14:13:00
+CLI0274,Eduarda Lima,eduarda.lima274@email.com,Sao Paulo,SP,25/03/2025,C01,2026-07-01 14:34:00
+CLI0003,Isabela Rodrigues,isabela.rodrigues3@email.com,Sao Paulo,SP,2025-05-01,C05,2026-04-02 10:03:00
+CLI0003,Isabela Rodrigues,isabela.rodrigues3@email.com,Santos,SP,2025-05-01,C05,2026-07-01 10:03:00
+CLI0116,Mariana Nascimento,mariana.nascimento116@email.com,Curitiba,PR,2026-04-29 08:59:00,C09,2026-07-01 11:56:00
+CLI0143,Gabriela Silva,gabriela.silva143@email.com,Sao Paulo,SP,2026-06-19 18:02:00,C08,2026-07-01 12:23:00
+CLI0151,Olivia Santos,olivia.santos151@email.com,Sao Paulo,SP,06/12/2024,C02,2026-07-01 12:31:00
+CLI0195,Olivia Rodrigues,olivia.rodrigues195@email.com,Sao Paulo,SP,2023-07-21,C01,2026-07-01 13:15:00
+CLI0139,Felipe Silva,felipe.silva139@email.com,Sao Paulo,SP,25/02/2026,C02,2026-07-01 12:19:00
+CLI0224,Gabriela Silva,Gabriela.silva224@email.com ,Campinas,SP,2024-09-30 10:17:00,C09,2026-07-01 13:44:00
+CLI0166,Mariana Lima,mariana.lima166@email.com,Santos,SP,28/06/2025,C05,2026-07-01 12:46:00
+CLI0016,Ana Silva,ana.silva16@email.com,Sao Paulo,SP,26/04/2024,C01,2026-07-01 10:16:00
+CLI0277,Ana Silva,ana.silva277@email.com,Curitiba,PR,04/10/2024,C03,2026-07-01 14:37:00
+CLI0279,Diego Rodrigues,diego.rodrigues279@email.com,Sao Paulo,SP,2024-02-12,C10,2026-07-01 14:39:00
+CLI0094,Lucas Costa,lucas.costa94@email.com,Rio de Janeiro,RJ,14/06/2026,C09,2026-07-01 11:34:00
+CLI0163,Nicolas Lima,nicolas.lima163@email.com,Sao Paulo,SP,28/06/2025,C10,2026-07-01 12:43:00
+CLI0153,Eduarda Pereira,eduarda.pereira153@email.com,Sao Paulo,SP,2025-10-10,C09,2026-07-01 12:33:00
+CLI0221,Diego Santos,diego.santos221@email.com,Sao Paulo,SP,2023-05-28 17:55:00,C07,2026-07-01 13:41:00
+CLI0190,Nicolas Santos,nicolas.santos190@email.com,Curitiba,PR,05/08/2023,C04,2026-07-01 13:10:00
+CLI0178,Rafaela Pereira,rafaela.pereira178@email.com,Rio de Janeiro,RJ,02/09/2024,C07,2026-07-01 12:58:00
+CLI0120,Carla Almeida,carla.almeida120@email.com,Santos,SP,2026-03-01,C02,2026-07-01 12:00:00
+CLI0216,Joao Lima,joao.lima216@email.com,Sao Paulo,SP,2024-02-27,C04,2026-07-01 13:36:00
+CLI0283,Nicolas Costa,nicolas.costa283@email.com,Sao Paulo,SP,04/08/2023,C05,2026-07-01 14:43:00
+CLI0219,Samuel Almeida,samuel.almeida219@email.com,Curitiba,PR,2026-06-18,C01,2026-07-01 13:39:00
+CLI0104,Tatiana Lima,tatiana.lima104@email.com,Sao Paulo,SP,2023-02-27 10:32:00,C04,2026-07-01 11:44:00
+CLI0197,Samuel Almeida,samuel.almeida197@email.com,Sao Paulo,SP,2025-05-19 09:22:00,C03,2026-07-01 13:17:00
+CLI0076,Ana Santos,ana.santos76@email.com,Sao Paulo,SP,06/11/2024,C04,2026-07-01 11:16:00
+CLI0205,Isabela Souza,isabela.souza205@email.com,Porto Alegre,RS,24/04/2026,C08,2026-07-01 13:25:00
+CLI0193,Diego Almeida,diego.almeida193@email.com,Campinas,SP,26/09/2023,C02,2026-07-01 13:13:00
+CLI0162,Ana Nascimento,ana.nascimento162@email.com,Rio de Janeiro,RJ,2024-09-29,C03,2026-07-01 12:42:00
+CLI0040,Eduarda Rodrigues,eduarda.rodrigues40@email.com,Sao Paulo,SP,26/12/2024,C09,2026-07-01 10:40:00
+CLI0080,Nicolas Silva,nicolas.silva80@email.com,Sao Paulo,SP,2026-01-31 19:32:00,C04,2026-07-01 11:20:00
+CLI0185,Felipe Costa,felipe.costa185@email.com,Rio de Janeiro,RJ,2024-01-24 13:01:00,C09,2026-07-01 13:05:00
+CLI0220,Joao Oliveira,joao.oliveira220@email.com,Sao Paulo,SP,06/05/2025,C04,2026-07-01 13:40:00
+CLI0278,Ana Silva,ana.silva278@email.com,Santos,SP,2023-04-16 20:01:00,C10,2026-07-01 14:38:00
+CLI0184,Felipe Rodrigues,felipe.rodrigues184@email.com,Belo Horizonte,MG,17/03/2025,C08,2026-07-01 13:04:00
+CLI0188,Diego Costa,diego.costa188@email.com,Sao Paulo,SP,2024-10-19 12:57:00,C01,2026-07-01 13:08:00
+CLI0136,Mariana Santos,mariana.santos136@email.com,Sao Paulo,SP,01/05/2025,C07,2026-07-01 12:16:00
+CLI0004,Olivia Oliveira,olivia.oliveira4@email.com,Sao Paulo,SP,29/11/2025,C08,2026-07-01 10:04:00
+CLI0045,Rafaela Santos,rafaela.santos45@email.com,Sao Paulo,SP,2023-10-18,C07,2026-07-01 10:45:00
+CLI0157,Diego Costa,diego.costa157@email.com,Sao Paulo,SP,14/09/2024,C10,2026-07-01 12:37:00
+CLI0169,Ana Souza,ana.souza169@email.com,Sao Paulo,SP,26/08/2024,C07,2026-07-01 12:49:00
+CLI0007,Karina Costa,karina.costa7@email.com,Rio de Janeiro,RJ,09/01/2024,C01,2026-07-01 10:07:00
+CLI0147,Olivia Santos,olivia.santos147@email.com,Sao Paulo,SP,2023-03-06,C01,2026-07-01 12:27:00
+CLI0044,Tatiana Silva,tatiana.silva44@email.com,Campinas,SP,2025-02-18 16:33:00,C03,2026-07-01 10:44:00
+CLI0208,Vitor Pereira,vitor.pereira208@email.com,Porto Alegre,RS,13/10/2024,C02,2026-07-01 13:28:00
+CLI0238,Lucas Rodrigues,  LUCAS.RODRIGUES238@EMAIL.COM ,Sao Paulo,SP,04/05/2026,C03,2026-07-01 13:58:00
+CLI0039,Tatiana Lima,tatiana.lima39@email.com,Sao Paulo,SP,2023-11-21,C07,2026-07-01 10:39:00
+CLI0260,Nicolas Almeida,nicolas.almeida260@email.com,Campinas,SP,2024-02-16 09:25:00,C07,2026-07-01 14:20:00
+CLI0026,Bruno Oliveira,bruno.oliveira26@email.com,Sao Paulo,RJ,2024-12-26 17:41:00,C05,2026-04-02 10:26:00
+CLI0280,Eduarda Rodrigues,Eduarda.rodrigues280@email.com ,Sao Paulo,SP,24/03/2024,C01,2026-07-01 14:40:00
+CLI0192,Lucas Souza,lucas.souza192@email.com,Sao Paulo,SP,2025-06-27,C08,2026-07-01 13:12:00
+CLI0235,Samuel Pereira,samuel.pereira235@email.com,Sao Paulo,SP,16/12/2023,C03,2026-07-01 13:55:00
+CLI0058,Carla Rodrigues,carla.rodrigues58@email.com,Sao Paulo,SP,27/06/2024,C04,2026-07-01 10:58:00
+CLI0068,Karina Santos,karina.santos68@email.com,Curitiba,PR,2025-10-10 22:43:00,C09,2026-07-01 11:08:00
+CLI0097,Joao Oliveira,joao.oliveira97@email.com,Sao Paulo,SP,01/07/2024,C09,2026-07-01 11:37:00
+CLI0101,Lucas Almeida,lucas.almeida101@email.com,Guarulhos,SP,2025-08-11 18:47:00,C07,2026-04-02 11:41:00
+CLI0181,Henrique Silva,henrique.silva181@email.com,Campinas,SP,12/12/2025,C07,2026-07-01 13:01:00
+CLI0258,Mariana Oliveira,mariana.oliveira258@email.com,Sao Paulo,SP,2026-05-18,C05,2026-07-01 14:18:00
+CLI0176,Tatiana Oliveira,tatiana.oliveira176@email.com,Santos,SP,2025-02-07 18:31:00,C01,2026-07-01 12:56:00
+CLI0117,Karina Lima,karina.lima117@email.com,Curitiba,PR,2023-06-11,C08,2026-07-01 11:57:00
+CLI0031,Ana Silva,ana.silva31@email.com,Sao Paulo,SP,13/01/2026,C08,2026-07-01 10:31:00
+CLI0069,Rafaela Souza,rafaela.souza69@email.com,Campinas,SP,2024-12-22,C06,2026-07-01 11:09:00
+CLI0036,Eduarda Costa,eduarda.costa36@email.com,Porto Alegre,RS,2025-01-07,C04,2026-07-01 10:36:00
+CLI0024,Samuel Pereira,samuel.pereira24@email.com,Sao Paulo,SP,2026-02-22,C01,2026-07-01 10:24:00
+CLI0186,Carla Santos,carla.santos186@email.com,Sao Paulo,SP,2024-03-21,C07,2026-07-01 13:06:00
+CLI0141,Rafaela Silva,rafaela.silva141@email.com,Sao Paulo,SP,2025-09-13,C01,2026-07-01 12:21:00
+CLI0273,Isabela Rodrigues,isabela.rodrigues273@email.com,Rio de Janeiro,RJ,2023-06-02,C09,2026-07-01 14:33:00
+CLI0051,Felipe Silva,felipe.silva51@email.com,Sao Paulo,SP,2025-11-20,C01,2026-07-01 10:51:00
+CLI0119,Diego Lima,diego.lima119@email.com,Sao Paulo,SP,2023-03-18 09:37:00,C01,2026-07-01 11:59:00
+CLI0149,Vitor Oliveira,vitor.oliveira149@email.com,Sao Paulo,SP,2024-04-30 10:35:00,C04,2026-07-01 12:29:00
+CLI0082,Vitor Rodrigues,vitor.rodrigues82@email.com,Sao Paulo,SP,27/09/2025,C06,2026-07-01 11:22:00
+CLI0246,Ana Pereira,ana.pereira246@email.com,Sao Paulo,SP,2023-02-26,C06,2026-07-01 14:06:00
+CLI0254,Pedro Oliveira,pedro.oliveira254@email.com,Curitiba,PR,2025-08-26 14:07:00,C06,2026-07-01 14:14:00
+CLI0038,Lucas Rodrigues,lucas.rodrigues38@email.com,Curitiba,PR,2025-07-26 16:51:00,C08,2026-07-01 10:38:00
+CLI0133,Tatiana Silva,tatiana.silva133@email.com,Sao Paulo,SP,18/05/2026,C09,2026-07-01 12:13:00
+CLI0269,Carla Santos,carla.santos269@email.com,Porto Alegre,RS,2024-07-27 09:45:00,C01,2026-07-01 14:29:00
+CLI0202,Joao Souza,joao.souza202@email.com,Porto Alegre,RS,23/05/2026,C09,2026-07-01 13:22:00
+CLI0107,Lucas Oliveira,lucas.oliveira107@email.com,Rio de Janeiro,RJ,2025-05-14 19:27:00,C08,2026-07-01 11:47:00
+CLI0128,Bruno Rodrigues,bruno.rodrigues128@email.com,Sao Paulo,SP,2026-05-04 10:28:00,C04,2026-07-01 12:08:00
+CLI0272,Ana Lima,ana.lima272@email.com,Sao Paulo,SP,2026-03-04 22:17:00,C08,2026-07-01 14:32:00
+CLI0025,Diego Oliveira,diego.oliveira25@email.com,Belo Horizonte,MG,09/09/2023,C02,2026-07-01 10:25:00
+CLI0085,Isabela Almeida,isabela.almeida85@email.com,Porto Alegre,RS,30/03/2025,C05,2026-07-01 11:25:00
+CLI0209,Karina Costa,karina.costa209@email.com,Curitiba,PR,2025-05-18 17:29:00,C10,2026-07-01 13:29:00
+CLI0059,Felipe Pereira,felipe.pereira59@email.com,Campinas,SP,2025-11-02 16:21:00,C06,2026-07-01 10:59:00
+CLI0249,Tatiana Rodrigues,tatiana.rodrigues249@email.com,Curitiba,PR,2025-09-27,C07,2026-07-01 14:09:00
+CLI0248,Karina Almeida,karina.almeida248@email.com,Porto Alegre,RS,2026-06-14 11:02:00,C06,2026-07-01 14:08:00
+CLI0102,Eduarda Pereira,eduarda.pereira102@email.com,Sao Paulo,SP,2025-11-06,C01,2026-07-01 11:42:00
+CLI0109,Vitor Rodrigues,vitor.rodrigues109@email.com,Sao Paulo,SP,08/03/2024,C04,2026-07-01 11:49:00
+CLI0015,Carla Silva,carla.silva15@email.com,Campinas,SP,2024-06-10,C07,2026-07-01 10:15:00
+CLI0081,Pedro Pereira,pedro.pereira81@email.com,Sao Paulo,SP,2024-12-12,C06,2026-07-01 11:21:00
+CLI0232,Tatiana Santos,tatiana.santos232@email.com,Sao Paulo,SP,05/02/2026,C04,2026-07-01 13:52:00
+CLI0140,Olivia Almeida,Olivia.almeida140@email.com ,Curitiba,PR,2023-03-14 13:56:00,C08,2026-07-01 12:20:00
+CLI0134,Felipe Almeida,felipe.almeida134@email.com,Sao Paulo,SP,2026-02-26 13:51:00,C04,2026-07-01 12:14:00
+CLI0161,Vitor Almeida,vitor.almeida161@email.com,Curitiba,PR,2025-09-06 09:04:00,C03,2026-07-01 12:41:00
+CLI0175,Vitor Souza,vitor.souza175@email.com,Sao Paulo,SP,14/12/2023,C07,2026-07-01 12:55:00
+CLI0242,Gabriela Lima,gabriela.lima242@email.com,Sao Paulo,SP,2024-06-13 18:52:00,C07,2026-07-01 14:02:00
+CLI0207,Vitor Souza,vitor.souza207@email.com,Sao Paulo,SP,2024-02-10,C10,2026-07-01 13:27:00
+CLI0012,Nicolas Oliveira,nicolas.oliveira12@email.com,Sao Paulo,SP,2023-05-04,C06,2026-07-01 10:12:00
+CLI0251,Isabela Almeida,isabela.almeida251@email.com,Curitiba,PR,2025-12-10 13:51:00,C07,2026-07-01 14:11:00
+CLI0150,Rafaela Pereira,rafaela.pereira150@email.com,Campinas,SP,2024-07-25,C03,2026-07-01 12:30:00
+CLI0055,Isabela Nascimento,isabela.nascimento55@email.com,Sao Paulo,SP,29/08/2023,C06,2026-07-01 10:55:00
+CLI0070,Bruno Costa,  BRUNO.COSTA70@EMAIL.COM ,Porto Alegre,RS,21/12/2023,C01,2026-07-01 11:10:00
+CLI0062,Nicolas Nascimento,nicolas.nascimento62@email.com,Campinas,SP,2024-03-11 10:28:00,C10,2026-07-01 11:02:00
+CLI0189,Diego Santos,diego.santos189@email.com,Sao Paulo,SP,2023-11-05,C08,2026-07-01 13:09:00
+CLI0063,Eduarda Costa,eduarda.costa63@email.com,Sao Paulo,SP,2024-11-04,C02,2026-07-01 11:03:00
+CLI0086,Gabriela Nascimento,gabriela.nascimento86@email.com,Guarulhos,SP,2025-04-21 21:04:00,C09,2026-04-02 11:26:00
+CLI0263,Karina Almeida,karina.almeida263@email.com,Sao Paulo,SP,2024-02-03 19:17:00,C03,2026-07-01 14:23:00
+CLI0052,Lucas Santos,lucas.santos52@email.com,Sao Paulo,SP,11/09/2024,C04,2026-07-01 10:52:00
+CLI0250,Bruno Pereira,bruno.pereira250@email.com,Sao Paulo,SP,18/02/2024,C09,2026-07-01 14:10:00
+CLI0066,Isabela Lima,isabela.lima66@email.com,Belo Horizonte,MG,2025-07-27,C07,2026-07-01 11:06:00
+CLI0032,Nicolas Lima,nicolas.lima32@email.com,Sao Paulo,SP,2023-10-11 18:37:00,C02,2026-07-01 10:32:00
+CLI0252,Samuel Santos,Samuel.santos252@email.com ,Curitiba,PR,2023-02-12,C07,2026-07-01 14:12:00
+CLI0101,Lucas Almeida,lucas.almeida101@email.com,Sao Paulo,SP,2025-08-11 18:47:00,C07,2026-07-01 11:41:00
+CLI0098,Lucas Oliveira,  LUCAS.OLIVEIRA98@EMAIL.COM ,Santos,SP,2023-12-11 10:44:00,C01,2026-07-01 11:38:00
+CLI0035,Ana Souza,ana.souza35@email.com,Santos,SP,2023-04-30 11:43:00,C09,2026-07-01 10:35:00
+CLI0261,Lucas Souza,lucas.souza261@email.com,Belo Horizonte,MG,2026-01-18,C10,2026-07-01 14:21:00
+CLI0105,Carla Costa,carla.costa105@email.com,Curitiba,PR,2025-06-06,C04,2026-07-01 11:45:00
+CLI0087,Samuel Lima,samuel.lima87@email.com,Santos,SP,2026-06-16,C02,2026-07-01 11:27:00
+CLI0089,Karina Pereira,karina.pereira89@email.com,Sao Paulo,SP,2024-01-07 09:35:00,C03,2026-07-01 11:29:00
+CLI0256,Henrique Souza,henrique.souza256@email.com,Sao Paulo,SP,13/03/2024,C08,2026-07-01 14:16:00
+CLI0174,Henrique Oliveira,henrique.oliveira174@email.com,Rio de Janeiro,RJ,2024-09-10,C01,2026-07-01 12:54:00
+CLI0011,Isabela Almeida,isabela.almeida11@email.com,Sao Paulo,SP,2023-07-27 20:16:00,C02,2026-07-01 10:11:00
+CLI0243,Carla Rodrigues,carla.rodrigues243@email.com,Sao Paulo,SP,2024-08-04,C05,2026-07-01 14:03:00
+CLI0231,Lucas Costa,lucas.costa231@email.com,Sao Paulo,SP,2023-01-21,C06,2026-07-01 13:51:00
+CLI0077,Olivia Souza,olivia.souza77@email.com,Belo Horizonte,MG,2023-12-16 19:19:00,C02,2026-07-01 11:17:00
+CLI0048,Lucas Oliveira,lucas.oliveira48@email.com,Campinas,SP,2024-01-22,C01,2026-07-01 10:48:00
+CLI0262,Tatiana Rodrigues,tatiana.rodrigues262@email.com,Sao Paulo,SP,11/10/2024,C04,2026-07-01 14:22:00
+CLI0022,Nicolas Silva,nicolas.silva22@email.com,Sao Paulo,SP,07/11/2024,C05,2026-07-01 10:22:00
+CLI0226,Olivia Nascimento,olivia.nascimento226@email.com,Campinas,SP,05/09/2025,C08,2026-07-01 13:46:00
+CLI0215,Samuel Silva,samuel.silva215@email.com,Sao Paulo,SP,2024-11-08 14:16:00,C07,2026-07-01 13:35:00
+CLI0071,Isabela Almeida,isabela.almeida71@email.com,Porto Alegre,RS,2024-05-31 10:21:00,C10,2026-07-01 11:11:00
+CLI0042,Samuel Lima,  SAMUEL.LIMA42@EMAIL.COM ,Sao Paulo,SP,2023-07-26,C01,2026-07-01 10:42:00
+CLI0023,Diego Lima,diego.lima23@email.com,Campinas,SP,2024-10-15 17:57:00,C01,2026-07-01 10:23:00
+CLI0126,Pedro Souza,  PEDRO.SOUZA126@EMAIL.COM ,Sao Paulo,SP,2025-08-17,C04,2026-07-01 12:06:00
+CLI0092,Gabriela Costa,gabriela.costa92@email.com,Rio de Janeiro,RJ,2025-12-14 10:32:00,C04,2026-07-01 11:32:00
+CLI0180,Rafaela Pereira,rafaela.pereira180@email.com,Sao Paulo,SP,2025-03-08,C09,2026-07-01 13:00:00
+CLI0173,Samuel Costa,samuel.costa173@email.com,Porto Alegre,RS,2024-06-23 13:55:00,C08,2026-07-01 12:53:00

@@ -1,0 +1,13 @@
+loja_id,nome_loja,cidade,uf,tipo_loja,data_abertura
+L01,Loja Paulista - Av. Paulista,Sao Paulo,SP,FISICA,2015-03-10
+L02,Loja Paulista - Shopping Ibirapuera,Sao Paulo,SP,FISICA,2016-08-21
+L03,Loja Paulista - Pinheiros,Sao Paulo,SP,FISICA,2018-05-02
+L04,Loja Paulista - Campinas,Campinas,SP,FISICA,2017-11-15
+L05,Loja Paulista - Santos,Santos,SP,FISICA,2019-02-01
+L06,Loja Paulista - Ribeirao Preto,Ribeirao Preto,SP,FISICA,2020-06-30
+L07,Loja Paulista - Rio Barra,Rio de Janeiro,RJ,FISICA,2021-04-12
+L08,Loja Paulista - BH Savassi,Belo Horizonte,MG,FISICA,2021-09-01
+L09,Loja Paulista - Curitiba,Curitiba,PR,FISICA,2022-03-18
+L10,Loja Paulista - Porto Alegre,Porto Alegre,RS,FISICA,2023-01-20
+L11,Site Loja Paulista,Sao Paulo,SP,ONLINE,2014-01-01
+L12,App Loja Paulista,Sao Paulo,SP,ONLINE,2020-01-01

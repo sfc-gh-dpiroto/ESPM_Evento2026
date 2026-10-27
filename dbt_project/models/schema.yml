@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: receita_por_categoria
+    description: "Receita liquida por categoria de produto"
+    columns:
+      - name: categoria
+        tests: [not_null, unique]
+      - name: receita
+        tests: [not_null]
+  - name: clientes_por_cidade
+    description: "Clientes compradores e receita por cidade"
+    columns:
+      - name: cidade
+        tests: [not_null]

@@ -1,0 +1,14 @@
+# No dbt Projects on Snowflake, account/user sao ignorados:
+# o projeto roda com a sessao de quem executa.
+loja_paulista:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: "not_used"
+      user: "not_used"
+      role: ACCOUNTADMIN
+      warehouse: ESPM_WH
+      database: ESPM_HOL
+      schema: GOLD_DBT
+      threads: 2
