@@ -13,6 +13,8 @@ flowchart LR
   MKT[Marketplace] --> GLD
 ```
 
+Arquitetura completa: [docs/ARQUITETURA.md](docs/ARQUITETURA.md)
+
 ## Antes da aula
 
 1. Crie sua conta trial gratuita: `{{LINK_SIGNUP}}`

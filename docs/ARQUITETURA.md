@@ -1,0 +1,136 @@
+# Arquitetura da demo - Loja Paulista
+
+![Arquitetura](arquitetura.png)
+
+> Fonte editavel: [`arquitetura.mmd`](arquitetura.mmd). Versao vetorial: [`arquitetura.svg`](arquitetura.svg).
+
+## Diagrama (renderizado pelo GitHub)
+
+```mermaid
+%%{init: {"theme": "base", "flowchart": {"curve": "basis", "nodeSpacing": 22, "rankSpacing": 60, "padding": 14, "htmlLabels": true}, "themeVariables": {"fontFamily": "Arial", "fontSize": "15px", "lineColor": "#5B5B5B", "clusterBkg": "#FAFAFA", "clusterBorder": "#C8C8C8", "edgeLabelBackground": "#FFFFFF"}}}%%
+flowchart LR
+
+  %% ============ 1. ORIGEM ============
+  subgraph ORIGEM["1 · Origem: Git"]
+    direction TB
+    gh["<b>GitHub</b><br/>ESPM_Evento2026<br/><small>data · incremental · dbt · streamlit</small>"]
+    api{{"<b>API INTEGRATION</b><br/>GIT_ESPM_INT"}}
+    repo[("<b>GIT REPOSITORY</b><br/>HOL_REPO")]
+    gh -->|FETCH| repo
+    api -.->|autoriza| repo
+  end
+
+  %% ============ 2. BRONZE ============
+  subgraph BRONZE["2 · BRONZE · dado cru · NB03 · SQL"]
+    direction TB
+    stg[("<b>STAGE</b><br/>ARQUIVOS")]
+    bronze["<b>9 tabelas</b><br/>texto cru + auditoria<br/><small>clientes · pedidos · itens · campanhas ...</small>"]
+    stg -->|COPY INTO| bronze
+  end
+
+  %% ============ 3. SILVER ============
+  subgraph SILVER["3 · SILVER · dado limpo · NB04 · SQL"]
+    direction TB
+    silver["<b>6 Dynamic Tables</b><br/>dedupe · datas · e-mails · NUMBER 12,2<br/><small>TARGET_LAG = DOWNSTREAM</small>"]
+  end
+
+  %% ============ 4. GOLD ============
+  subgraph GOLD["4 · GOLD · métricas de negócio"]
+    direction TB
+    subgraph GSQL["SQL · Dynamic Tables · NB05"]
+      gold["<b>RECEITA_DIARIA_CANAL</b><br/><b>RFM_CLIENTES</b><br/><b>FUNIL_CAMPANHAS</b>"]
+    end
+    subgraph GAUTO["Automação · Stream + Task · NB05"]
+      direction LR
+      task1["<b>TASK</b><br/>carrega pedidos novos"]
+      stream["<b>STREAM</b><br/>marca linhas novas"]
+      task2["<b>TASK</b><br/>alerta VIP"]
+      alerta["ALERTAS_PEDIDOS_GRANDES"]
+      task1 --> stream --> task2 --> alerta
+    end
+    subgraph GPY["Python · Snowpark · NB06"]
+      snow["<b>DataFrame + UDF</b><br/>FAIXA_VALOR"] --> seg["SEGMENTOS_CLIENTES"]
+    end
+    subgraph GDBT["dbt Projects · NB07"]
+      dbt["<b>LOJA_PAULISTA_DBT</b><br/>build = run + test"] --> gdbt["GOLD_DBT<br/><small>receita por categoria · por cidade</small>"]
+    end
+  end
+
+  %% ============ 5. CONSUMO ============
+  subgraph CONSUMO["5 · Consumo · NB08"]
+    direction TB
+    mkt[("<b>Marketplace</b><br/>calendário gratuito")]
+    app["<b>Streamlit</b><br/>DASH_LOJA_PAULISTA"]
+    users(["CMO · CRM · Mídia"])
+    app --> users
+  end
+
+  %% ============ PLATAFORMA ============
+  subgraph PLAT["Plataforma · 01_setup"]
+    direction LR
+    wh["<b>WAREHOUSE</b> ESPM_WH<br/><small>XSMALL · suspende em 60 s · roda SQL</small>"]
+    pool["<b>COMPUTE POOL</b> ESPM_NOTEBOOK_POOL<br/><small>CPU_X64_XS · suspende em 5 h · roda notebooks</small>"]
+    wsp["<b>Workspace from Git</b><br/><small>notebooks 03 a 08</small>"]
+    coco(["<b>Cortex Code</b><br/>copiloto"])
+    coco -.-> wsp
+  end
+
+  %% ============ FLUXO PRINCIPAL ============
+  repo ==>|COPY FILES| stg
+  bronze ==>|limpa| silver
+  silver ==>|agrega| gold
+  gold ==> app
+
+  %% ============ RAMOS ============
+  repo -->|incremental/| task1
+  task1 -->|COPY INTO| bronze
+  gold -->|DataFrame| snow
+  silver -->|source| dbt
+  repo -->|CREATE DBT PROJECT| dbt
+  repo -->|CREATE STREAMLIT| app
+  alerta --> app
+  mkt -->|join por data| gold
+  api -.->|autoriza| wsp
+
+  %% ============ ESTILO · paleta Snowflake ============
+  classDef git fill:#262626,stroke:#262626,color:#FFFFFF
+  classDef infra fill:#11567F,stroke:#11567F,color:#FFFFFF
+  classDef bronze fill:#FFE3C2,stroke:#FF9F36,stroke-width:2px,color:#262626
+  classDef silver fill:#E8EDF1,stroke:#8A9BA8,stroke-width:2px,color:#262626
+  classDef gold fill:#FFF1C1,stroke:#E0A800,stroke-width:2px,color:#262626
+  classDef py fill:#7D44CF,stroke:#7D44CF,color:#FFFFFF
+  classDef dbt fill:#D45B90,stroke:#D45B90,color:#FFFFFF
+  classDef app fill:#29B5E8,stroke:#29B5E8,color:#FFFFFF
+  classDef ai fill:#71D3DC,stroke:#3FA9B3,color:#262626
+
+  class gh,repo git
+  class api,wh,pool,wsp infra
+  class stg,bronze bronze
+  class silver silver
+  class gold,task1,stream,task2,alerta,seg,gdbt gold
+  class snow py
+  class dbt dbt
+  class app,mkt,users app
+  class coco ai
+
+  style ORIGEM fill:#F2F2F2,stroke:#262626
+  style BRONZE fill:#FFF8EF,stroke:#FF9F36
+  style SILVER fill:#F5F7F9,stroke:#8A9BA8
+  style GOLD fill:#FFFCF0,stroke:#E0A800
+  style CONSUMO fill:#EEF9FD,stroke:#29B5E8
+  style PLAT fill:#EEF4F8,stroke:#11567F
+```
+
+## Legenda
+
+| Cor | Componente |
+|---|---|
+| Preto | Git (GitHub e Git repository) |
+| Azul escuro | Plataforma: warehouse, compute pool, integracao, Workspace |
+| Laranja | Bronze (dado cru) |
+| Cinza | Silver (dado limpo) |
+| Amarelo | Gold (metricas) |
+| Roxo | Python / Snowpark |
+| Rosa | dbt |
+| Azul claro | Consumo: Streamlit, Marketplace |
+| Verde-agua | Cortex Code |
