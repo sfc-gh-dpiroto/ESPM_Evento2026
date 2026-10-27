@@ -77,5 +77,3 @@ CREATE GIT REPOSITORY IF NOT EXISTS ESPM_HOL.PUBLIC.HOL_REPO
 LS @ESPM_HOL.PUBLIC.HOL_REPO/branches/main/data/;
 
 /* PROXIMO PASSO: rode 01_setup/02_setup_compute_pool.sql */
-
-/* PROXIMO PASSO: rode 01_setup/02_setup_compute_pool.sql */
