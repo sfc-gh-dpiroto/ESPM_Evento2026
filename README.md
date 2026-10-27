@@ -22,7 +22,7 @@ flowchart LR
 
 | # | O que fazer | Onde |
 |---|---|---|
-| 1 | Copie o conteúdo de [`01_setup/01_setup_git.sql`](01_setup/01_setup_git.sql) e rode tudo | Snowsight > Projects > Workspaces > + SQL File |
+| 1 | Copie o conteúdo de [`01_setup/01_setup_git.sql`](01_setup/01_setup_git.sql) rode os passos 1-2 e **complete os `???`** dos passos 3-5 (conexão com o GitHub) | Snowsight > Projects > Workspaces > + SQL File |
 | 2 | Copie e rode [`01_setup/02_setup_compute_pool.sql`](01_setup/02_setup_compute_pool.sql) | mesmo lugar |
 | 3 | Crie um Workspace a partir deste repositório (URL deste repo, integração `GIT_ESPM_INT`, *Public repository*) | Projects > Workspaces > From Git repository |
 | 4 | Abra `02_notebooks/03_bronze_ingestao.ipynb` e conecte ao pool `ESPM_NOTEBOOK_POOL` (idle timeout 4h) | Workspace |
