@@ -24,7 +24,7 @@ flowchart LR
   subgraph BRONZE["2 · BRONZE · dado cru · NB03 · SQL"]
     direction TB
     stg[("<b>STAGE</b><br/>ARQUIVOS")]
-    bronze["<b>9 tabelas</b><br/>texto cru + auditoria<br/><small>clientes · pedidos · itens · campanhas ...</small>"]
+    bronze["<b>9 tabelas</b><br/>dados brutos + auditoria<br/><small>clientes · pedidos · itens · campanhas ...</small>"]
     stg -->|COPY INTO| bronze
   end
 
