@@ -57,4 +57,4 @@ ALTER GIT REPOSITORY ESPM_HOL.PUBLIC.HOL_REPO FETCH;
 -- CHECKPOINT: voce deve ver 9 arquivos .csv
 LS @ESPM_HOL.PUBLIC.HOL_REPO/branches/main/data/;
 
-/* PROXIMO PASSO: rode setup/01_setup_compute_pool.sql */
+/* PROXIMO PASSO: rode 01_setup/02_setup_compute_pool.sql */
