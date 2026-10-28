@@ -52,6 +52,7 @@ Pastas de apoio (usadas automaticamente pelos scripts, não precisa abrir):
 data/          CSVs da Loja Paulista (bronze)
 incremental/   pedidos que "chegam" durante a aula (notebook 05)
 dbt_project/   projeto dbt (notebook 07)
+streamlit_101/ app de estudo com exemplos para descomentar (notebook 08)
 streamlit/     app do dashboard (notebook 08)
 ```
 
